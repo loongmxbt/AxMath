@@ -1,2 +1,2 @@
-# axsoft
-AxSoft.co official releases, AxMath, AxGlyph, AxCode.
+# AxMath
+AxSoft.co official releases, AxMath

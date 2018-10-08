@@ -1,8 +1,8 @@
-# AxMath
-[AxSoft](https://www.axsoft.co) official releases, AxMath
+# [AxMath](https://www.axsoft.co/)
+AxMath is an interactive WYSIWYG equation editor. It is designed with love, passion and expertise. It has all kinds of functionalities which make you type equations at lightspeed. Key features include semantic math input, auto calculation, LaTeX conversion, memory board, etc. You can download it for free trial, or only pay with minimum $9.99 to get a pro version.
 
 ## I. Introduction
-AxMath is a powerful interactive equation editor for multiple purposes. AxMath lets you create complex equations at ease. With sementic math you can type any equations at lightspeed without using a mouse. Still confusing with Word, MathType, LaTeX, Lyx, TexMacs...? Let's try AxMath!
+[AxMath](https://www.axsoft.co/) is a powerful interactive equation editor for multiple purposes. AxMath lets you create complex equations at ease. With sementic math you can type any equations at lightspeed without using a mouse. Still confusing with Word, MathType, LaTeX, Lyx, TexMacs...? Let's try AxMath!
 
 ## II. Key Features
 AxMath is designed with Love, it has plenty of useful features, here lists the most used ones.
@@ -32,12 +32,12 @@ AxMath is designed with Love, it aims to give all the fellow scholars and studen
 AxMath is the art of equation editor. It is designed with love, passion and expertise. It has all kinds of functionalities which make you type equations at lightspeed. Key features include semantic math input, auto calculation, memory board, etc. Visit our FAQ page to get instant help. Visit our Support Forum to open an issue.
 
 ## Resources
-Latest Version: [AxMath_Setup_Win7_8_10_en](https://github.com/loongmxbt/AxMath/releases)
-Changelog: [AxMath Changelog](https://www.axsoft.co/changelog)
-Manual: [AxMath Help Manual](https://www.axsoft.co/public/file/axmath-help.pdf)
-Video Tutorial: [AxMath Video Tutorial](https://www.youtube.com/playlist?list=PLVdtkoQaTxQ1NIxO0tN9IGp0vR4HeDjcG)
-Sales: dragonszy@gmail.com
-Slack: [AxMath Channel](https://axsoft.slack.com/)
-Platform: Win 10, Win 8, Win 7, Vista
-Microsoft Office 2010-2016, Office 365, WPS Office 2016
+* Latest Version: [AxMath_Setup_Win7_8_10_en](https://github.com/loongmxbt/AxMath/releases)
+* Changelog: [AxMath Changelog](https://www.axsoft.co/changelog)
+* Manual: [AxMath Help Manual](https://www.axsoft.co/public/file/axmath-help.pdf)
+* Video Tutorial: [AxMath Video Tutorial](https://www.youtube.com/playlist?list=PLVdtkoQaTxQ1NIxO0tN9IGp0vR4HeDjcG)
+* Sales: dragonszy@gmail.com
+* Slack: [AxMath Channel](https://axsoft.slack.com/)
+* Platform: Win 10, Win 8, Win 7, Vista
+* Microsoft Office 2010-2016, Office 365, WPS Office 2016
 
